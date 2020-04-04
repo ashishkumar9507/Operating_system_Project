@@ -1,7 +1,7 @@
 # Operating_system_Project
-Basically this project is about Operating System scheduling based question and for more details see the doc file....also read this description---
+Basically this project is about Operating System scheduling based question and for more details see the doc file....also read this question for better understanding of this problem---
 
-Problem 1:
+Problem :
 Design a scheduling program to implements a Queue with two levels:
 Level 1 : Fixed priority preemptive Scheduling
 Level 2 : Round Robin Scheduling
